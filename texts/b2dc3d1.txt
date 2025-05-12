@@ -1,0 +1,2767 @@
+Tribunal Regional do Trabalho - 1º Grau
+Tribunal Regional do Trabalho da 17ª Região  - 1º Grau
+
+O documento a seguir foi juntado aos autos do processo de número 0000478-27.2019.5.17.0007
+em 07/07/2019 20:02:48 - e7ced61 e assinado eletronicamente por:
+
+- ARISTOTELES ASPIN MANSOR PASSOS
+
+Consulte este documento em: 
+https://pje.trtes.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam
+usando o código:19070719554647200000016393777
+
+Documento assinado pelo Shodo
+
+EXMO.(A) SR.(A) DR.(A) JUIZ(A) DA 7ª VARA DO TRABALHO DE VITÓRIA - ES 
+
+PROCESSO: 0000478-27.2019.5.17.0007  
+RECLAMANTE: RENATO FABRES  
+RECLAMADA: PINTURAS YPIRANGA LTDA. (+1)  
+
+ARISTÓTELES  ASPIN  MANSÔR  PASSOS,  perito  devidamente  qualificado 
+
+nos  autos  do  processo  em  epígrafe,  vem,  mui  respeitosamente  à  presença  de  V. 
+
+Exa.,  apresentar  o  laudo  técnico  pericial  e  requisitar  a  sua  juntada  consoante  ao 
+
+disposto no art. 477 do CPC.  
+
+Requer  o  arbitramento  de  seus  honorários  profissionais  no  valor  de  R$ 
+
+3.000,00,  correspondentes  ao  trabalho  efetuado,  além  de  despesas  de  cunho 
+
+operacional  e  administrativo.  Por  ocasião,  solicita  a  esta  renomada  Vara,  a 
+
+expedição da certidão de crédito referente aos honorários periciais prévios, no valor 
+
+de  R$  400,00,  em  concordância  com  a  determinação  consignada  em  Ata  de 
+
+Audiência dos autos. 
+
+No  intuito  de  continuar  a  merecer  tão  honrosa  confiança,  fica  à  disposição 
+
+para quaisquer esclarecimentos porventura requeridos pelas partes acerca do laudo. 
+
+Nesta oportunidade, com respeitosa estima, apresenta suas cordiais saudações. 
+
+Termos em que,  
+
+Pede e espera deferimento. 
+
+Vitória, 05 de julho de 2019. 
+
+ARISTÓTELES ASPIN MANSÔR PASSOS 
+PERITO OFICIAL 
+ENGENHEIRO DE MATERIAIS E SEGURANÇA DO TRABALHO 
+CREA-MG 185672/D CREA-ES VISTO 20160453 
+RNP 1413812171
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMÁRIO 
+
+1. OBJETIVO ......................................................................................................................... 4 
+
+2. ASPECTOS GERAIS ......................................................................................................... 4 
+
+3. DADOS FUNCIONAIS ....................................................................................................... 5 
+
+4. METODOLOGIA ADOTADA PARA REALIZAÇÃO DA DILIGÊNCIA ................................. 5 
+
+5. FUNDAMENTAÇÃO LEGAL .............................................................................................. 5 
+
+6. FUNDAMENTAÇÃO TÉCNICA .......................................................................................... 6 
+
+7. LOCAIS DE TRABALHO E ATIVIDADES .......................................................................... 6 
+
+8. AGENTES DE INSALUBRIDADE IDENTIFICADOS .......................................................... 7 
+
+9. AVALIAÇÃO DOS AGENTES DE INSALUBRIDADE IDENTIFICADOS ............................ 8 
+
+9.1 RUÍDO (ANEXO 01 DA NR-15) ............................................................................................. 8 
+
+9.1.1 ORIGEM DA EXPOSIÇÃO .................................................................................................. 8 
+
+9.1.2 DISPOSIÇÕES NORMATIVAS ............................................................................................. 8 
+
+9.1.3 EQUIPAMENTOS UTILIZADOS NA MEDIÇÃO ........................................................................ 9 
+
+9.1.4 NÍVEIS DE RUÍDO ............................................................................................................ 9 
+
+9.1.5 EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL NECESSÁRIOS .............................................. 10 
+
+9.1.6 EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL FORNECIDOS AO RECLAMANTE ...................... 11 
+
+9.1.7 ANÁLISE DOS EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL FORNECIDOS ............................ 11 
+
+9.1.8 CONCLUSÃO ................................................................................................................. 13 
+
+9.2 POEIRA MINERAL CONTENDO SÍLICA LIVRE CRISTALIZADA (ANEXO 12 DA NR-15) ............... 13 
+
+9.2.1 ORIGEM DA EXPOSIÇÃO ................................................................................................ 13 
+
+9.2.2 DISPOSIÇÕES NORMATIVAS ........................................................................................... 14 
+
+9.2.3 NÍVEIS DE POEIRA MINERAL CONTENDO SÍLICA LIVRE CRISTALIZADA................................ 14 
+
+9.2.4 EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL NECESSÁRIOS .............................................. 15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+9.2.5 EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL FORNECIDOS AO RECLAMANTE ...................... 15 
+
+9.2.6 CONCLUSÃO ................................................................................................................. 16 
+
+9.3 TINTAS E SOLVENTES (ANEXO 13 DA NR-15)..................................................................... 16 
+
+9.3.1 ORIGEM DA EXPOSIÇÃO ................................................................................................ 16 
+
+9.3.2 DISPOSIÇÕES NORMATIVAS ........................................................................................... 17 
+
+9.3.3 EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL NECESSÁRIOS .............................................. 18 
+
+9.3.4 EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL FORNECIDOS AO RECLAMANTE ...................... 19 
+
+9.3.5 CONCLUSÃO ................................................................................................................. 19 
+
+10. QUESITOS .................................................................................................................... 20 
+
+10.1 QUESITOS DO RECLAMANTE ........................................................................................... 20 
+
+10.2 QUESITOS DA 1ª RECLAMADA ......................................................................................... 22 
+
+10.3 QUESITOS DA 2ª RECLAMADA ......................................................................................... 25 
+
+11. SÍNTESE DOS FATOS APURADOS ............................................................................. 27 
+
+12. CONSIDERAÇÕES FINAIS ........................................................................................... 29 
+
+13. ANEXO – DOCUMENTAÇÃO FOTOGRÁFICA ............................................................. 31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+1. OBJETIVO 
+
+O  presente  laudo  técnico  pericial  tem  como  objetivo  apurar  a  existência  de 
+
+agentes  ensejadores  de  insalubridade,  nas  atividades  e  locais  de  trabalho  do 
+
+Reclamante,  em  atendimento  à  determinação  do  Juízo,  constante  em  Ata  de 
+
+Audiência dos autos. 
+
+2. ASPECTOS GERAIS 
+
+A diligência da prova pericial foi realizada no dia 27 de junho de 2019, a partir 
+
+das 08 horas e 00 minutos, nas dependências da 2ª Reclamada, esta localizada na 
+
+Avenida  Dante  Micheline,  n.º  5.500,  Ponta  de  Tubarão,  Vitória  –  ES.  Os  trabalhos 
+
+periciais foram realizados com a presença das seguintes pessoas:  
+
+§  Dr. José Patrikson Malta Santos, advogado do Reclamante; 
+§  Sr.  Luciano  Sales  dos  Santos,  engenheiro  de  segurança  do  trabalho  e 
+
+assistente técnico da 1ª Reclamada;
+
+§  Sr.  Marcelo  Athanasio  Strieder,  supervisor  de  integridade  estrutural  da  2ª 
+
+Reclamada; 
+
+§  Sr.  Márcio  Juliano  Mendes  Silva,  engenheiro  de  segurança  do  trabalho  e 
+
+assistente técnico da 2ª Reclamada;
+
+§  Sr. Marcos Paulo Ferreira, encarregado de pintura da 1ª Reclamada; 
+§  Sr. Renato Fabres, o Reclamante; 
+§  Sra. Roselene Ramos, técnica de segurança do trabalho da 1ª Reclamada. 
+
+As informações sobre as atividades e locais de trabalho do Reclamante foram 
+
+obtidas com as pessoas supracitadas. 
+
+Página | 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. DADOS FUNCIONAIS 
+
+Os  dados  funcionais  do  Reclamante,  no  período  não  prescrito,  incluindo  as 
+
+datas de admissão, demissão, cargo e a evolução funcional, encontram-se descritos 
+
+na Tabela 01.  
+
+Tabela 01 – Dados funcionais do Reclamante.  
+
+ADMISSÃO 
+
+DEMISSÃO 
+
+CARGO 
+
+12/06/2012 
+
+07/02/2019 
+
+Encarregado de Turma de 
+
+Pintura 
+
+4. METODOLOGIA ADOTADA PARA REALIZAÇÃO DA DILIGÊNCIA 
+
+A diligência pericial foi desenvolvida em etapas. Inicialmente, foram apuradas 
+
+as  funções,  atividades  e  locais  de  trabalho  do  Reclamante.  Para  tal,  as  pessoas 
+
+citadas  no item  2  deste laudo  foram  entrevistadas,  conforme  faculdades  conferidas 
+
+pelo §3º do art. 473 do CPC. Posteriormente, houve a identificação dos agentes de 
+
+insalubridade  com  potencial  de  causar  danos  à  saúde  do  Reclamante,  nas 
+
+atividades e/ou locais de trabalho.  Por fim, foi realizada a verificação da existência, 
+
+ou  não  da  insalubridade,  por  meio  da  avaliação  qualitativa  e/ou  quantitativa  dos 
+
+agentes identificados, tomando-se como referências aqueles relacionados na Norma 
+
+Regulamentadora n.º 15 (NR-15) e seus respectivos Anexos.  
+
+5. FUNDAMENTAÇÃO LEGAL 
+
+BRASIL. Lei n.º 5.452, de 01 de maio de 1943. Aprova a Consolidação das Leis do 
+
+Trabalho. Brasília: Diário Oficial da União, 1943. 
+
+Página | 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BRASIL. Lei n.º 6.514, de 22 de dezembro de 1977. Altera o Capítulo V do Título II 
+
+da Consolidação das Leis do Trabalho, relativo à segurança e medicina do trabalho 
+
+e dá outras providências. Brasília: Diário Oficial da União, 1977. 
+
+BRASIL.  Lei  n.º  13.105,  de  16  de  março  de  2015.  Código  de  Processo  Civil. 
+
+Brasília: Diário Oficial da União, 2015. 
+
+BRASIL.  Portaria  GM  n.º  3.214,  de  08  de  junho  de  1978.  Aprova  as  Normas 
+
+Regulamentadoras  –  NR  –  do  Capítulo  V,  Título  II,  da  Consolidação  das  Leis  do 
+
+Trabalho,  relativas  à  Segurança  e  Medicina  do  Trabalho.  Brasília:  Diário  Oficial  da 
+
+União, 1978. 
+
+6. FUNDAMENTAÇÃO TÉCNICA 
+
+GIAMPAOLI,  E.,  SAAD,  I.F.S.D.,  CUNHA,  I.A.  Norma  de  higiene  ocupacional. 
+
+Procedimento  técnico.  Avaliação  da exposição  ocupacional  ao  ruído.  NHO  01.  São 
+
+Paulo: Fundacentro, 2001. 
+
+7. LOCAIS DE TRABALHO E ATIVIDADES  
+
+O  Reclamante  desenvolveu  suas  atividades  nas  dependências  da  2ª 
+
+Reclamada,  para  a  qual  a  1ª  Reclamada  era  prestadora  de  serviços  de  pintura 
+
+industrial. Segundo dados apurados em diligência, ele atuou em frentes de serviços 
+
+distribuídas  nas  áreas  operacionais  dos  terminais  de  minério  de  ferro,  praia  mole  e 
+
+produtos diversos. Nesses locais, o Reclamante exercia as ocupações descritas no 
+
+Quadro 01.  
+
+Página | 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quadro 01 – Descrição das atividades desempenhadas pelo Reclamante. 
+
+ENCARREGADO DE TURMA DE 
+
+PINTURA 
+
+Acompanhava,  coordenava,  orientava  e 
+
+treinava as equipes de pintura; Monitorava os 
+
+métodos  e  procedimentos  de  segurança 
+
+empregados 
+
+no 
+
+processo 
+
+produtivo; 
+
+Participava  da  programação  de  produção, 
+
+dimensionando 
+
+a 
+
+disponibilidade 
+
+dos 
+
+equipamentos  e  de  pessoal;  Estimava  a 
+
+quantidade  de  materiais  a  ser  empregada; 
+
+Preparava tintas quando necessário. 
+
+8. AGENTES DE INSALUBRIDADE IDENTIFICADOS 
+
+Na  identificação  de  possíveis  agentes  de  insalubridade  com  potencial  de 
+
+causar danos à saúde do Reclamante, dentre os definidos na NR-15 e seus Anexos, 
+
+constatou-se que ele ficava exposto apenas aos agentes dispostos na Tabela 02. 
+
+Tabela 02 – Agentes de insalubridade identificados. 
+
+AGENTE 
+
+CONSTATAÇÃO IN LOCO 
+
+RUÍDO 
+
+(Anexo 01 da NR-15) 
+
+POEIRA MINERAL CONTENDO SÍLICA 
+
+LIVRE CRISTALIZADA 
+
+(Anexo 12 da NR-15) 
+
+O  Reclamante  ficava  exposto  ao  agente 
+
+físico  ruído  durante  a  execução  de  suas 
+
+atividades. 
+
+O  Reclamante  ficava  exposto  ao  agente 
+
+poeira  mineral 
+
+contendo 
+
+sílica 
+
+livre 
+
+cristalizada  durante  a  execução  de  suas 
+
+atividades. 
+
+Página | 7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TINTAS E SOLVENTES 
+
+(Anexo 13 da NR-15) 
+
+O  Reclamante  ficava  exposto  aos  agentes 
+
+químicos 
+
+tintas  e  solventes  durante  a 
+
+execução de suas atividades. 
+
+9. AVALIAÇÃO DOS AGENTES DE INSALUBRIDADE IDENTIFICADOS 
+
+9.1 Ruído (Anexo 01 da NR-15) 
+
+9.1.1 Origem da Exposição 
+
+O  Reclamante  ficava  exposto  ao  agente  físico  ruído  durante  a  execução  de 
+
+suas  atividades.  A  exposição  se  processava  devido  aos  níveis  de  pressão  sonora 
+
+emitidos  pelos  equipamentos  em  operação  em  seus  locais  de  laboro,  assim  como 
+
+dos métodos empregados nas frentes de serviço. 
+
+9.1.2 Disposições Normativas 
+
+Os  critérios  para  avaliação  de  insalubridade  em  razão  de  exposição  a  ruído 
+
+estão  definidos  no  Anexo  01  da  NR-15.  Segundo  o  estabelecido,  a  avaliação  deve 
+
+ser quantitativa por meio da medição do nível de ruído em decibéis (dB) existente no 
+
+ambiente  de  trabalho,  dentro  da  zona  auditiva  do  trabalhador.  A  insalubridade  é 
+
+caracterizada quando o tempo de exposição do trabalhador ao nível de ruído medido 
+
+for  superior  à  máxima  exposição  diária  permitida  e  não  tiverem  sido  adotadas  as 
+
+medidas  para  sua  eliminação  ou  neutralização  estabelecidas  no  subitem  15.4.1  da 
+
+NR-15. A máxima exposição diária permitida encontra-se definida na tabela  “limites 
+
+de  tolerância  para  ruído  contínuo  ou  intermitente”  do  referido  anexo.  Entende-se 
+
+para  os  fins  de  aplicação  dos  limites  de  tolerância,  o  ruído  que  não  seja  ruído  de 
+
+impacto. 
+
+Página | 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.1.3 Equipamentos Utilizados na Medição 
+
+A  medição  foi  realizada  com  dosímetro  de  ruído  Svantek,  modelo  SV  104, 
+
+classe 02, número de série 37824, devidamente aferido e certificado em laboratório. 
+
+O  dosímetro  foi  previamente  ajustado  para  atender  os  parâmetros  de  circuito  de 
+
+ponderação “A”, circuito de resposta lenta e incremento de duplicação de dose igual 
+
+a  05.  A  calibração  do  equipamento  foi  realizada  com  calibrador  acústico  Casella, 
+
+modelo  CEL-110/2,  classe  02,  número  de  série  67879,  devidamente  aferido  e 
+
+certificado em laboratório. 
+
+9.1.4 Níveis de Ruído 
+
+O nível médio de ruído ao longo do tempo de medição (dosimetria) e o limite 
+
+de 
+
+tolerância  encontram-se  descritos  na  Tabela  03,  sendo  representados 
+
+juntamente com o histórico dos níveis de pressão sonora, no Gráfico 01. 
+
+Tabela 03 – Nível de ruído medido e o limite de tolerância permitido para o tempo de 
+
+exposição do Reclamante. 
+
+FUNÇÃO 
+
+NÍVEL MÉDIO  
+
+PERMITIDO 
+
+Encarregado de Turma de 
+
+Pintura 
+
+89,7 dB(A) 
+
+84,0 dB(A) 
+
+Página | 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 01 – Histórico dos níveis de pressão sonora, nível médio de ruído e o limite 
+
+de tolerância para o tempo de exposição do Reclamante.  
+
+)
+)
+
+(
+
+A
+B
+d
+(
+a
+r
+o
+n
+o
+S
+o
+ã
+s
+s
+e
+r
+P
+
+105
+
+95
+
+85
+
+75
+
+5
+2
+:
+5
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+3
+:
+5
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+4
+:
+5
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+5
+:
+5
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+0
+:
+6
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+1
+:
+6
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+2
+:
+6
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+3
+:
+6
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+4
+:
+6
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+5
+:
+6
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+0
+:
+7
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+1
+:
+7
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+5
+:
+7
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+3
+:
+7
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+5
+4
+2
+:
+:
+7
+7
+5
+5
+:
+:
+9
+9
+0
+0
+9
+9
+1
+1
+0
+0
+2
+2
+/
+/
+6
+6
+0
+0
+/
+/
+7
+7
+2
+2
+Tempo (s)
+
+5
+0
+:
+8
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+1
+:
+8
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+2
+:
+8
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+3
+:
+8
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+4
+:
+8
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+5
+:
+8
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+0
+:
+9
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+1
+:
+9
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+2
+:
+9
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+3
+:
+9
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+4
+:
+9
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+5
+5
+:
+9
+5
+:
+9
+0
+9
+1
+0
+2
+/
+6
+0
+/
+7
+2
+
+Níveis de Pressão
+
+Nível Médio
+
+Limite de Tolerância
+
+Tomando-se o tempo de exposição do Reclamante ao nível de ruído medido e 
+
+comparando-o com o limite máximo diário para ele permitido, definido no Anexo 01 
+
+da NR-15, constata-se que havia exposição por tempo superior ao limite permitido. 
+
+9.1.5 Equipamentos de Proteção Individual Necessários 
+
+O  subitem  15.4.1  da  NR-15  e  a  NR-6  estabelecem  o  uso  obrigatório  de 
+
+equipamentos  de  proteção  individual  do  tipo  protetor  auricular  para  a  neutralização 
+
+das exposições. 
+
+NR 15 - ATIVIDADES E OPERAÇÕES INSALUBRES 
+
+15.4.1 A eliminação ou neutralização da insalubridade deverá ocorrer: 
+
+a) com a adoção de medidas de ordem geral que conservem o ambiente de 
+trabalho dentro dos limites de tolerância; 
+b) com a utilização de equipamento de proteção individual. 
+
+Página | 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NR 6 - EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL - EPI 
+
+C - EPI PARA PROTEÇÃO AUDITIVA 
+
+C.1 - Protetor auditivo 
+
+a) protetor auditivo circum-auricular para proteção do sistema auditivo 
+contra níveis de pressão sonora superiores ao  estabelecido na NR-15, 
+Anexos n.º 1 e 2; 
+b)  protetor  auditivo  de  inserção  para  proteção  do  sistema  auditivo 
+contra níveis de pressão sonora superiores ao estabelecido na NR-15, 
+Anexos n.º 1 e 2; 
+c)  protetor  auditivo  semi-auricular  para  proteção  do  sistema  auditivo 
+contra níveis de pressão sonora superiores ao estabelecido na NR-15, 
+Anexos n.º 1 e 2. 
+
+9.1.6 Equipamentos de Proteção Individual Fornecidos ao Reclamante  
+
+A 1ª Reclamada juntou aos autos as fichas de fornecimento de equipamentos 
+
+de  proteção  individual  (EPI)  do  Reclamante  e  comprovantes  da  participação  em 
+
+treinamentos. Nas fichas constam os registros de entrega de protetores auriculares 
+
+com certificados de aprovação (CA) n.º 15.625 e 27.972. 
+
+9.1.7 Análise dos Equipamentos de Proteção Individual Fornecidos 
+
+O  nível  de  pressão  sonora  no  ouvido  protegido  com  o  uso  de  protetores 
+
+auriculares  pode  ser  avaliado  por  diferentes  métodos.  Do  ponto  de  vista  técnico,  o 
+
+método longo é o mais indicado por apresentar maior intervalo de confiança. Nesse 
+
+método,  o  cálculo  da  eficiência  da  atenuação  baseia-se  na  análise  dos  níveis  de 
+
+pressão  sonora  em  dB(A)  em  bandas  de  frequência  de  125  Hz  até  8  kHz,  estas 
+
+representadas  no  Gráfico  02.    Consideram-se  nessas  bandas,  as  atenuações 
+
+médias em dB(A) e os desvios padrões fornecidos pelo certificado de aprovação do 
+
+equipamento  de  proteção,  por  meio  dos  quais  se  obtêm  os  limites  inferiores  de 
+
+atenuação  ao  subtrair  dois  desvios  padrões  em  cada  banda  de  frequência.  Desse 
+
+modo, ao aplicar esse método aos protetores auriculares fornecidos ao Reclamante, 
+
+verifica-se  que  a  soma  logarítmica  dos  valores  dos  níveis  de  pressão  sonora  no 
+
+Página | 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ouvido  protegido  situa-se  abaixo  do  limite  de  tolerância,  conforme  descrito  nos 
+
+Quadros  02  e  03.  Em  outras  palavras,  os  equipamentos  de  proteção  fornecidos 
+
+eram adequados à neutralização das exposições. 
+
+Gráfico 02 – Níveis de pressão sonora em bandas de frequência para a exposição 
+
+do Reclamante. 
+
+)
+)
+
+(
+
+A
+B
+d
+(
+a
+r
+o
+n
+o
+S
+o
+ã
+s
+s
+e
+r
+P
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+125
+
+250
+
+500
+
+1000
+Frequência (Hz)
+
+2000
+
+4000
+
+8000
+
+Quadro 02 – Cálculo no nível de pressão sonora (NPS) no ouvido protegido com o 
+
+uso do protetor auricular (PA) de CA nº 15.625 pelo método longo. Todos os níveis 
+
+em dB(A). 
+
+FREQUÊNCIA 
+
+125 Hz  250 Hz  500 Hz 
+
+1 kHz 
+
+2 kHz 
+
+4 kHz 
+
+8 kHz 
+
+NPS 
+
+62,22 
+
+75,99 
+
+84,06 
+
+83,41 
+
+85,12 
+
+83,24 
+
+81,07 
+
+ATENUAÇÃO 
+
+12,9 
+
+18,1 
+
+26,9 
+
+31,7 
+
+30,3 
+
+36,8 
+
+36,9 
+
+DESVIO PADRÃO 
+
+2,6 
+
+2,7 
+
+3,8 
+
+2,8 
+
+2,5 
+
+3,2 
+
+4,8 
+
+NPS COM PA 
+
+54,22 
+
+65,99 
+
+65,06 
+
+59,41 
+
+58,12 
+
+54,24 
+
+56,07 
+
+NPS TOTAL COM PA 
+
+68,7 
+
+Página | 12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quadro 03 – Cálculo no nível de pressão sonora (NPS) no ouvido protegido com o 
+
+uso do protetor auricular (PA) de CA nº 27.972 pelo método longo. Todos os níveis 
+
+em dB(A). 
+
+FREQUÊNCIA 
+
+125 Hz  250 Hz  500 Hz 
+
+1 kHz 
+
+2 kHz 
+
+4 kHz 
+
+8 kHz 
+
+NPS 
+
+62,22 
+
+75,99 
+
+84,06 
+
+83,41 
+
+85,12 
+
+83,24 
+
+81,07 
+
+ATENUAÇÃO 
+
+16 
+
+18 
+
+25 
+
+30 
+
+31 
+
+35 
+
+35 
+
+DESVIO PADRÃO 
+
+4 
+
+4 
+
+3 
+
+3 
+
+2 
+
+3 
+
+5 
+
+NPS COM PA 
+
+54,22 
+
+65,99 
+
+65,06 
+
+59,41 
+
+58,12 
+
+54,24 
+
+56,07 
+
+NPS TOTAL COM PA 
+
+69,8 
+
+9.1.8 Conclusão 
+
+As  atividades  exercidas  e  ambientes  de 
+
+laboro  do  Reclamante  não 
+
+caracterizam  o  adicional  de  insalubridade,  uma  vez  que  as  exposições  ao  agente 
+
+físico ruído foram neutralizadas com o uso de EPI, tendo a Reclamada cumprido as 
+
+exigências no subitem 15.4.1 da NR-15 e nos subitens 6.3 a 6.6 da NR-6, segundo o 
+
+enquadramento  técnico  dado  pelo  Anexo  01  da  NR-15,  ambas  as  redações  dadas 
+
+pela Portaria n.º 3.214/78. 
+
+9.2 Poeira Mineral Contendo Sílica Livre Cristalizada (Anexo 12 da NR-15) 
+
+9.2.1 Origem da Exposição 
+
+O  Reclamante  ficava  exposto  ao  agente  poeira  mineral  contendo  sílica  livre 
+
+cristalizada  durante  a  execução  de  suas  atividades.  A  exposição  se  processava 
+
+devido às matérias primas empregadas no processo produtivo da 2ª Reclamada. 
+
+Página | 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.2.2 Disposições Normativas 
+
+Os critérios para avaliação da insalubridade em razão da exposição ao agente 
+
+poeira mineral contendo sílica livre cristalizada estão definidos no Anexo 12 da NR-
+
+15. A avaliação deve ser quantitativa, sendo a exposição do trabalhador superior ao 
+
+limite  de  tolerância  e  sem  o  uso  de  proteção  adequada,  considerada insalubre,  em 
+
+grau máximo. 
+
+9.2.3 Níveis de Poeira Mineral contendo Sílica Livre Cristalizada 
+
+A  concentração  de poeira  mineral  contendo sílica livre  cristalizada  e o limite 
+
+de tolerância encontram-se descritos na Tabela 04. 
+
+Tabela 04 – Concentração de poeira mineral contendo sílica livre cristalizada e o 
+
+limite de tolerância permitido. 
+
+FUNÇÃO  
+
+CONCENTRAÇÃO 
+
+PERMITIDO 
+
+Encarregado de Turma de 
+
+Pintura 
+
+0,041 mg/m3 
+
+0,025 mg/m3 
+
+A concentração de poeira mineral contendo sílica livre cristalizada foi superior 
+
+ao limite de tolerância permitido. 
+
+Nota:  A  1ª  Reclamada  reconhece  no  programa  de  prevenção  de  riscos  ambientais  (PPRA)  juntado 
+aos  autos  (documentos  de  ID.  9ecbc5c,  9195afb,  bcea8f3,  4a5bd61  e  4a5bd61),  a 
+concentração de poeira mineral contendo sílica livre cristalizada de 0,041 mg/m3 para a função 
+de Encarregado de Turma de Pintura. 
+
+Página | 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.2.4 Equipamentos de Proteção Individual Necessários 
+
+O  subitem  15.4.1  da  NR-15  e  a  NR-6  estabelecem  o  uso  obrigatório  de 
+
+equipamentos  de  proteção 
+
+individual  do 
+
+tipo  proteção  respiratória  para  a 
+
+neutralização das exposições. 
+
+NR 15 - ATIVIDADES E OPERAÇÕES INSALUBRES 
+
+15.4.1 A eliminação ou neutralização da insalubridade deverá ocorrer: 
+
+a) com a adoção de medidas de ordem geral que conservem o ambiente de 
+trabalho dentro dos limites de tolerância; 
+b) com a utilização de equipamento de proteção individual. 
+
+NR 6 - EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL - EPI 
+
+D - EPI PARA PROTEÇÃO RESPIRATÓRIA 
+
+D.1 - Respirador purificador de ar não motorizado: 
+
+a) peça semifacial filtrante (PFF1) para proteção das vias respiratórias 
+contra poeiras e névoas;  
+b) peça semifacial filtrante (PFF2) para proteção das vias respiratórias 
+contra poeiras, névoas e fumos; 
+c) peça semifacial filtrante (PFF3) para proteção das vias respiratórias 
+contra poeiras, névoas, fumos e radionuclídeos; 
+d) peça um quarto facial, semifacial ou facial inteira com filtros para material 
+particulado  tipo  P1  para  proteção  das  vias  respiratórias  contra  poeiras  e 
+névoas;  e  ou  P2  para  proteção  contra  poeiras,  névoas  e  fumos;  e  ou  P3 
+para proteção contra poeiras, névoas, fumos e radionuclídeos; 
+e)  peça  um  quarto  facial,  semifacial  ou  facial  inteira  com  filtros  químicos  e 
+ou combinados para proteção das vias respiratórias contra gases e vapores 
+e ou material particulado. 
+
+9.2.5 Equipamentos de Proteção Individual Fornecidos ao Reclamante 
+
+A 1ª Reclamada juntou aos autos as fichas de fornecimento de equipamentos 
+
+de  proteção  individual  (EPI)  do  Reclamante  e  comprovantes  da  participação  em 
+
+treinamentos. Nas fichas constam os registros de entrega de proteções respiratórias 
+
+contra  poeiras  com  certificados  de  aprovação  (CA)  n.º  9.823  e  10.578.  Os 
+
+Página | 15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+equipamentos  de  proteção  fornecidos  eram  adequados  à  neutralização  das 
+
+exposições.  
+
+9.2.6 Conclusão 
+
+As  atividades  exercidas  e  ambientes  de 
+
+laboro  do  Reclamante  não 
+
+caracterizam  o  adicional  de  insalubridade,  uma  vez  que  as  exposições  ao  agente 
+
+poeira  mineral  contendo  sílica  livre  cristalizada  foram  neutralizadas  com  o  uso  de 
+
+EPI, tendo a Reclamada cumprido as exigências no subitem 15.4.1 da NR-15 e nos 
+
+subitens 6.3 a 6.6 da NR-6, segundo o enquadramento técnico dado pelo Anexo 12 
+
+da NR-15, ambas as redações dadas pela Portaria n.º 3.214/78. 
+
+9.3 Tintas e Solventes (Anexo 13 da NR-15) 
+
+9.3.1 Origem da Exposição 
+
+O Reclamante ficava exposto aos agentes químicos tintas e solventes durante 
+
+a  execução  de  suas  atividades.  A  exposição  se  processava  habitualmente  no 
+
+acompanhamento  das  atividades  de  pintura  com  pistola  e/ou  rolo,  tal  qual  na 
+
+orientação  da  equipe  executante  quanto  aos  métodos  a  serem  empregados  no 
+
+processo produtivo e na preparação de tintas. 
+
+Nota: A 1ª Reclamada reconhece em documentos juntados aos autos, tais como atestados de saúde 
+ocupacional  (documentos  de  ID.  4a64559  e  b486ece),  ordem  de  serviço  (documento  de  ID. 
+eea8253)  e  programas  de  prevenção  de  riscos  ambientais  (documentos  de  ID.  9ecbc5c, 
+9195afb, bcea8f3, 4a5bd61 e 4a5bd61), a exposição a tintas, solventes e/ou vapores orgânicos 
+para a função de Encarregado de Turma de Pintura. 
+
+Página | 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.3.2 Disposições Normativas 
+
+Os  critérios  para  avaliação  da  insalubridade  em  razão  da  exposição  aos 
+
+agentes tintas e solventes contendo hidrocarbonetos e outros compostos de carbono 
+
+estão  estabelecidos  no  Anexo  13.  A  avaliação  deve  ser  qualitativa  em  decorrência 
+
+de  inspeção  realizada  no  local  de  trabalho,  sendo  a  exposição  sem  o  uso  de 
+
+proteção adequada para a pele e vias respiratórias considerada insalubre. 
+
+NR 15 - ATIVIDADES E OPERAÇÕES INSALUBRES 
+
+ANEXO N.º 13 
+AGENTES QUÍMICOS 
+
+1.  Relação  das  atividades  e  operações  envolvendo  agentes  químicos, 
+consideradas, insalubres em decorrência de inspeção realizada no local de 
+trabalho.  Excluam-se  cesta  relação  as  atividades  ou  operações  com  os 
+agentes químicos constantes dos Anexos 11 e 12. 
+
+HIDROCARBONETOS E OUTROS COMPOSTOS DE CARBONO 
+
+Insalubridade de grau máximo 
+
+Destilação do alcatrão da hulha. 
+Destilação do petróleo. 
+Manipulação  de  alcatrão,  breu,  betume,  antraceno,  óleos  minerais,  óleo 
+queimado, parafina ou outras substâncias cancerígenas afins. 
+Fabricação  de  fenóis,  cresóis,  naftóis,  nitroderivados,  aminoderivados, 
+derivados  halogenados  e  outras  substâncias 
+tóxicas  derivadas  de 
+hidrocarbonetos cíclicos. 
+Pintura  a  pistola  com  esmaltes,  tintas,  vernizes  e  solventes  contendo 
+hidrocarbonetos aromáticos. 
+
+Insalubridade de grau médio 
+
+Emprego  de  defensivos  organoclorados:  DDT  (diclorodifeniltricloretano) 
+DDD (diclorodifenildicloretano), 
+metoxicloro  (dimetoxidifeniltricloretano),  BHC  (hexacloreto  de  benzeno)  e 
+seus compostos e isômeros. 
+Emprego de defensivos derivados do ácido carbônico. 
+Emprego de aminoderivados de hidrocarbonetos aromáticos (homólogos da 
+anilina). 
+Emprego de cresol, naftaleno e derivados tóxicos. 
+Emprego  de 
+(lacas  de 
+isocianatos  na 
+desmoldagem,  lacas  de  dupla  composição,  lacas  protetoras  de  madeira  e 
+metais,  adesivos  especiais  e  outros  produtos  à  base  de  poliisocianetos  e 
+poliuretanas). 
+
+formação  de  poliuretanas 
+
+Página | 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Emprego de produtos contendo hidrocarbonetos aromáticos como solventes 
+ou em limpeza de peças. 
+Fabricação  de  artigos  de  borracha,  de  produtos  para  impermeabilização  e 
+de tecidos impermeáveis à base de hidrocarbonetos. 
+tintas,  esmaltes,  vernizes, 
+Fabricação  de  linóleos,  celulóides,  lacas, 
+solventes,  colas,  artefatos  de  ebonite,  gutapercha,  chapéus  de  palha  e 
+outros à base de hidrocarbonetos. 
+Limpeza  de  peças  ou  motores  com  óleo  diesel  aplicado  sob  pressão 
+(nebulização).  
+Pintura a pincel com esmaltes, tintas e vernizes em solvente contendo 
+hidrocarbonetos aromáticos. 
+
+9.3.3 Equipamentos de Proteção Individual Necessários 
+
+O  subitem  15.4.1  da  NR-15  e  a  NR-6  estabelecem  o  uso  obrigatório  de 
+
+equipamentos de proteção individual do tipo creme protetor para as mãos e proteção 
+
+respiratória contra agentes químicos para a neutralização das exposições. 
+
+NR 15 - ATIVIDADES E OPERAÇÕES INSALUBRES 
+
+15.4.1 A eliminação ou neutralização da insalubridade deverá ocorrer: 
+
+a) com a adoção de medidas de ordem geral que conservem o ambiente de 
+trabalho dentro dos limites de tolerância; 
+b) com a utilização de equipamento de proteção individual. 
+
+NR 6 - EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL - EPI 
+
+D - EPI PARA PROTEÇÃO RESPIRATÓRIA 
+
+D.1 - Respirador purificador de ar não motorizado: 
+
+a)  peça  semifacial  filtrante  (PFF1)  para  proteção  das  vias  respiratórias 
+contra poeiras e névoas;  
+b)  peça  semifacial  filtrante  (PFF2)  para  proteção  das  vias  respiratórias 
+contra poeiras, névoas e fumos; 
+c)  peça  semifacial  filtrante  (PFF3)  para  proteção  das  vias  respiratórias 
+contra poeiras, névoas, fumos e radionuclídeos; 
+d) peça um quarto facial, semifacial ou facial inteira com filtros para material 
+particulado  tipo  P1  para  proteção  das  vias  respiratórias  contra  poeiras  e 
+névoas;  e  ou  P2  para  proteção  contra  poeiras,  névoas  e  fumos;  e  ou  P3 
+para proteção contra poeiras, névoas, fumos e radionuclídeos; 
+e)  peça  um  quarto  facial,  semifacial  ou  facial  inteira  com  filtros 
+químicos e ou combinados para proteção das vias respiratórias contra 
+gases e vapores e ou material particulado. 
+
+Página | 18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+... 
+
+F - EPI PARA PROTEÇÃO DOS MEMBROS SUPERIORES 
+
+F.2 - Creme protetor 
+
+a)  creme  protetor  de  segurança  para  proteção  dos  membros 
+superiores contra agentes químicos. 
+
+9.3.4 Equipamentos de Proteção Individual Fornecidos ao Reclamante 
+
+A 1ª Reclamada juntou aos autos as fichas de fornecimento de equipamentos 
+
+de  proteção  individual  (EPI)  do  Reclamante  e  comprovantes  da  participação  em 
+
+treinamentos. Nas fichas constam os registros de entrega de proteções respiratórias 
+
+contra  vapores  orgânicos  com  certificado  de  aprovação  (CA)  n.º  12.011  e  cremes 
+
+protetivos  com  certificado  de  aprovação  (CA)  n.º  8.265.  Cumpre  destacar  que  o 
+
+Reclamante  informou  na  diligência  da  prova  pericial  que  não  utilizava  proteção 
+
+respiratória contra vapores orgânicos, em termos gerais. Nesse aspecto, constatou-
+
+se que os registros das fichas corroboram a  informação prestada, vez que  o último 
+
+equipamento  de  proteção  fornecido  foi  devolvido  na  data  de  08/12/2015.  Em  vista 
+
+disso,  tem-se  que  o  fornecimento  do  equipamento  de  proteção  se  deu  de  forma 
+
+irregular,  permanecendo  ele  desprotegido  no  seguinte  período:  09/12/2015  a 
+
+07/02/2019.   
+
+9.3.5 Conclusão 
+
+As atividades exercidas e ambientes de laboro do Reclamante caracterizam o 
+
+adicional  de  insalubridade,  em  grau  máximo,  uma  vez  que  as  exposições  aos 
+
+agentes  químicos  tintas  e  solventes  não  foram  neutralizadas  com  o  uso  de  EPI, 
+
+tendo  a  Reclamada  descumprido  as  exigências  no  subitem  15.4.1  da  NR-15  e  nos 
+
+subitens 6.3 a 6.6 da NR-6, segundo o enquadramento técnico dado pelo Anexo 13 
+
+da  NR-15,  ambas  as  redações  dadas  pela  Portaria  n.º  3.214/78  –  Período: 
+
+09/12/2015 a 07/02/2019.   
+
+Página | 19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10. QUESITOS 
+
+10.1 Quesitos do Reclamante 
+
+1)  Com  base  na  cláusula  4ª  do  contrato  de  trabalho  do  autor,  juntado 
+
+pela 1ª reclamada (ID 9aebd3d), qual foi a remuneração pactuada?  
+
+Resposta: Extrapola o objeto desta perícia por se tratar de matéria contábil. 
+
+2) Nas fichas financeiras apresentadas à fls. 819/971, existe pagamentos 
+
+a título de Adicional de Insalubridade? 
+
+Resposta: Extrapola o objeto desta perícia por se tratar de matéria contábil. 
+
+3)  Com  base  no  Anexo  14  da  Norma  Regulamentadora  n°  15  do 
+
+Ministério de Trabalho e Emprego, a trabalho com (1 - Ruído Contínuo ou 
+
+Intermitente;  2  -  Exposição  ao  Calor;  3  -  Agentes  Químicos  acima  do 
+
+limite  de  tolerância  no  Local  de  Trabalho;  4  -  Poeiras  Minerais),  tem 
+
+estabelecido qual grau de insalubridade? 
+
+Resposta: Por gentileza verificar os itens 8 e 9 deste laudo. 
+
+4)  Como  eram  desenvolvidas  as  atividades  do  reclamante  junto  a 
+
+reclamada? 
+
+ Resposta: Por gentileza verificar o item 7 deste laudo. 
+
+5)  Queira  o  Sr.  Perito  descrever  as  condições  existentes  no  local  de 
+
+trabalho onde o reclamante prestou serviço; 
+
+Página | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+6) Tinha o reclamante contato com l(1 - Ruído Contínuo ou Intermitente; 
+
+2  -  Exposição  ao  Calor;  3  -  Agentes  Químicos  acima  do  limite  de 
+
+tolerância  no  Local  de  Trabalho;  4  -  Poeiras  Minerais),  e/ou  agentes 
+
+diverso  agressivos/nocivos  à  sua  saúde?  Em  caso  afirmativo,  quais  e 
+
+porquê? E qual o potencial danoso de cada um deles? 
+
+Resposta: Por gentileza verificar os itens 8 e 9 deste laudo. 
+
+7)  Pode  o  Sr.  Perito  informar  se  a  reclamada  fornece  EPIs  aos  seus 
+
+empregados?  Com  base  nas  entrevistas  que  o  Sr.  Perito  por  ventura 
+
+venha a fazer, o reclamante usava? 
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+8) O local onde o reclamante prestou serviço na reclamada é insalubre? 
+
+Em caso positivo, qual o grau devido do respectivo adicional? Quais as 
+
+técnicas utilizadas pelo Sr. Perito para chegar a tal conclusão? 
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+9)  Em  caso  de  comprovação  do  uso  de  EPIs  aos  seus  empregados,  o 
+
+uso dos EPIs são capazes de extinguir totalmente os agentes insalubres 
+
+porventura encontrados no local de trabalho onde o Reclamante prestou 
+
+serviço? 
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+Página | 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10.2 Quesitos da 1ª Reclamada 
+
+1. Descreva por gentileza o Jurisperito detalhadamente os locais, postos 
+
+de 
+
+trabalho,  operações  e  atividades  atinentes  às 
+
+funções 
+
+desempenhadas  pelo  reclamante,  bem  como  o  ramo  e/ou  a  atividade 
+
+principal da empresa Reclamada? 
+
+Resposta: Por gentileza verificar o item 7 deste laudo. 
+
+2. O reclamante exercia a função de Encarregado de pintura, concorda o 
+
+expert  que  o  mesmo  tinha  como  atribuição  delegar  as  atividades  aos 
+
+seus subordinados e fazer a verificação, inspeção da conformidade dos 
+
+trabalhos? 
+
+Resposta: Por gentileza verificar o item 7 deste laudo. 
+
+3. Por gentileza informar qual o período imprescrito, bem como se houve 
+
+afastamentos  ou  mudanças  de  setor  e  função  durante  o  pacto  laboral 
+
+imprescrito do reclamante na empresa reclamada. 
+
+Resposta: Por gentileza verificar o item 3 deste laudo. 
+
+4.  De  acordo  com  o  requerido  adicional  de  insalubridade  por  parte  do 
+
+reclamante, pedimos ao Jurisperito para que informe os NPSs (Níveis de 
+
+Pressão  Sonora)  do  ambiente, 
+
+local  de 
+
+trabalho  onde  atuava 
+
+efetivamente o reclamante?  
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+Página | 22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. Realizou o Expert medições quanto ao agente físico ruído? Por favor, 
+
+informar  a  metodologia  empregada,  bem  como  evidenciar  as  mesmas 
+
+com o tipo de equipamento utilizado para a avaliação. 
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+6. Por favor informar a jornada de trabalho do reclamante, bem como os 
+
+NPSs  (Níveis  de  Pressão  Sonora)  permitidos  para  a  exposição  a  ela 
+
+conforme determina a legislação em vigor. 
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+7. O reclamante se mantinha no exercício das suas atividades conforme 
+
+alega  em  sua  petição 
+
+inicial  a  radiação  solar?  Perguntamos  ao 
+
+Jurisperito  se  cabe  à  caracterização  de  insalubridade,  indevido  ao 
+
+referido agente com base na OJSDI1-173? 
+
+Resposta: Por gentileza verificar o item 8 deste laudo. 
+
+8.  Por  favor,  informar  qual  a  concentração  dos  vapores  orgânicos  no 
+
+ambiente, local de trabalho do reclamante? 
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+9. Qual a metodologia utilizada pelo Expert no ato pericial?  
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+Página | 23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10.  Quais  os  agentes  foram  apurados  na  avaliação  técnica,  estes 
+
+superam os limites de tolerância preconizados pela legislação vigentes? 
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+11. Por favor, informar se na vistoria in loco e avaliação técnica pericial 
+
+foram  constatados  os  agentes  elencados  na  portaria  3214/78  NR15 
+
+anexo 12? 
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+12. No desenvolver das atividades inerentes, concorda a Jurisperito que 
+
+o  reclamante  não  se  manteve  em  contato  e/ou  exposição  com  agentes 
+
+químicos conforme dispõe os anexos 11, 12 e 13 da NR15? 
+
+Resposta: Por gentileza verificar os itens 8 e 9 deste laudo. 
+
+13.  Dada à  redação  na  petição  inicial do  reclamante,  quanto  à alegação 
+
+de  insalubridade,  favor  informar  o  Jurisperito  se  foram  apurados 
+
+agentes  físicos  e  uímicos  nas  atividades  exercidas  pelo  reclamante 
+
+durante  o  seu  pacto  laboral  imprescrito  na  empresa  reclamada,  assim 
+
+como determina a portaria 3214/78 NR15 itens 15.1.1 e 15.1.3? 
+
+Resposta: Por gentileza verificar os itens 8 e 9 deste laudo. 
+
+14.  A  utilização  de  equipamento  de  proteção  individual  elimina  e/ou 
+
+neutraliza a exposição à alegada insalubridade, mediante a redação dada 
+
+no artigo 191 da CLT e a Portaria 3214/78, em sua NR15 item 15.4.1? 
+
+Página | 24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+15.  Por  favor,  informar  quais  os  equipamentos  de  proteção  foram 
+
+fornecidos  ao  reclamante  ao  longo  de  seu  pacto  laboral  imprescrito  na 
+
+empresa reclamada. 
+
+Resposta: Nada a acrescentar. 
+
+10.3 Quesitos da 2ª Reclamada 
+
+1.  Descreva  o  Sr.  Perito  as  atividades  desenvolvidas  pelo  Reclamante, 
+
+seus respectivos períodos e os locais de trabalho onde as desenvolveu, 
+
+sendo  retroativo  a  cinco  anos  contados  da  data  da  propositura  da 
+
+reclamação trabalhista. 
+
+Resposta: Por gentileza verificar o item 7 deste laudo. 
+
+2.  Queira  o  Sr.  Perito,  através  dos  meios  comprobatórios  existentes 
+
+(utilizando as prerrogativas que lhe concede o artigo 473 do Novo CPC  - 
+
+testemunhas  e  paradigmas),  informar  se  o  Reclamante  utilizava  os 
+
+equipamentos  de  proteção  individual  necessários  para  protegê-lo  dos 
+
+riscos das atividades desenvolvidas. 
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+3.  Queira  informar  se  o  Reclamante  estava  exposto  a  algum  agente 
+
+insalubre? Caso afirmativo, informar se a exposição aos citados agentes 
+
+é  habitual  e  permanente,  intermitente  ou  eventual  durante  a  jornada  de 
+
+trabalho. 
+
+Página | 25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+4.  Queira  o  Sr.  Perito  informar  se  durante  a  vistoria  realizada,  quais 
+
+foram os EPI’s visualizados pelo Perito no paradigma do Reclamante? 
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+5.  Queira  o  Sr.  Perito  informar  se  o  Reclamante  possuía  posto  fixo  no 
+
+local  de  trabalho?  Em  caso  negativo,  favor  identificar  e  detalhar  as 
+
+tarefas desempenhadas em cada posto de trabalho? 
+
+Resposta: Por gentileza verificar o item 7 deste laudo. 
+
+6. Queira o Sr. Perito informar se existe Ordem de Serviço assinada pelo 
+
+Reclamante onde ele se compromete em seguir as regras de segurança, 
+
+inclusive quanto ao uso de EPI’s necessários para as atividades? 
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+7.  Queira  o  Sr.  Perito 
+
+indicar,  caso  tenha  realizado  avaliações 
+
+quantitativas  de  algum  agente  ambiental  constante  na  NR  15  durante  a 
+
+diligência,  a  aparelhagem  utilizada,  o  certificado  de  calibração  e  a 
+
+metodologia  utilizada  na  avaliação  do  agente  para  a  realização  da 
+
+perícia? Favor anexar os resultados das avaliações do equipamento e o 
+
+certificado de calibração. 
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+Página | 26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.  Os  resultados  das  avaliações  quantitativas  constantes  no  PPRA  da 
+
+empresa, vigente no período, foram utilizados para elucidação da lide? 
+
+Resposta: Por gentileza verificar o item 9 deste laudo. 
+
+11. SÍNTESE DOS FATOS APURADOS 
+
+O  apanhado  geral  dos  fatos  apurados  relativos  à  insalubridade,  obtidos  com 
+
+base na inspeção realizada, nas informações recebidas e nas definições contidas na 
+
+NR-15 e seus Anexos, encontra-se sintetizado no Quadro 04. 
+
+Quadro 04 – Síntese referente à insalubridade. 
+
+RUÍDO 
+
+(ANEXO 01 DA NR-15) 
+
+O  Reclamante  ficava  exposto  ao  agente 
+
+físico  ruído  durante  a  execução  de  suas 
+
+atividades.  Entretanto,  a  1ª  Reclamada 
+
+comprovou 
+
+o 
+
+fornecimento 
+
+de 
+
+equipamentos  de  proteção  adequados  à 
+
+neutralização  das  exposições.  Destarte, 
+
+atesta-se  que  as  atividades  exercidas  e 
+
+ambientes  de  laboro  do  Reclamante  não 
+
+caracterizam  o  adicional  de  insalubridade, 
+
+uma  vez  que  as  exposições  ao  agente 
+
+físico  ruído  foram  neutralizadas  com  o  uso 
+
+de  EPI,  tendo  a  Reclamada  cumprido  as 
+
+exigências  no  subitem  15.4.1  da  NR-15  e 
+
+nos subitens 6.3 a 6.6 da NR-6, segundo o 
+
+enquadramento técnico dado pelo Anexo 01 
+
+da  NR-15,  ambas  as  redações  dadas  pela 
+
+Portaria n.º 3.214/78. 
+
+Página | 27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+O  Reclamante  ficava  exposto  ao  agente 
+
+poeira  mineral 
+
+contendo 
+
+sílica 
+
+livre 
+
+cristalizada  durante  a  execução  de  suas 
+
+atividades.  Entretanto,  a  1ª  Reclamada 
+
+comprovou 
+
+o 
+
+fornecimento 
+
+de 
+
+equipamentos  de  proteção  adequados  à 
+
+neutralização  das  exposições.  Destarte, 
+
+atesta-se  que  as  atividades  exercidas  e 
+
+POEIRA MINERAL CONTENDO SÍLICA 
+
+ambientes  de  laboro  do  Reclamante  não 
+
+LIVRE CRISTALIZADA 
+
+(ANEXO 12 DA NR-15) 
+
+caracterizam  o  adicional  de  insalubridade, 
+
+uma  vez  que  as  exposições  ao  agente 
+
+poeira  mineral 
+
+contendo 
+
+sílica 
+
+livre 
+
+cristalizada  foram  neutralizadas  com  o  uso 
+
+de  EPI,  tendo  a  Reclamada  cumprido  as 
+
+exigências  no  subitem  15.4.1  da  NR-15  e 
+
+nos subitens 6.3 a 6.6 da NR-6, segundo o 
+
+enquadramento técnico dado pelo Anexo 12 
+
+da  NR-15,  ambas  as  redações  dadas  pela 
+
+Portaria n.º 3.214/78. 
+
+Página | 28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TINTAS / SOLVENTES  
+
+(ANEXO 13 DA NR-15) 
+
+O  Reclamante  ficava  exposto  aos  agentes 
+
+químicos 
+
+tintas  e  solventes  durante  a 
+
+execução  de  suas  atividades.  Entretanto, 
+
+constatou-se  que  o 
+
+fornecimento  de 
+
+proteção 
+
+respiratória 
+
+contra 
+
+vapores 
+
+orgânicos  se  deu  de 
+
+forma 
+
+irregular, 
+
+permanecendo 
+
+ele 
+
+desprotegido 
+
+no 
+
+seguinte período: 09/12/2015 a 07/02/2019. 
+
+Destarte,  atesta-se  que  as  atividades 
+
+exercidas  e  ambientes  de 
+
+laboro  do 
+
+Reclamante  caracterizam  o  adicional  de 
+
+insalubridade,  em  grau  máximo,  uma  vez 
+
+que  as  exposições  aos  agentes  químicos 
+
+tintas  e  solventes  não  foram  neutralizadas 
+
+com  o  uso  de  EPI,  tendo  a  Reclamada 
+
+descumprido  as  exigências  no  subitem 
+
+15.4.1 da NR-15 e nos subitens 6.3 a 6.6 da 
+
+NR-6,  segundo  o  enquadramento  técnico 
+
+dado  pelo  Anexo  13  da  NR-15,  ambas  as 
+
+redações dadas pela Portaria n.º 3.214/78 – 
+
+Período: 09/12/2015 a 07/02/2019. 
+
+12. CONSIDERAÇÕES FINAIS 
+
+O perito avaliou a existência de possíveis agentes de insalubridade inerentes 
+
+às  atividades  do  Reclamante.  Por  tratar-se  de  laudo  eminentemente  técnico,  a 
+
+interpretação  da  legislação  pertinente  foi  norteada  pelos  princípios  da  Higiene 
+
+Ocupacional  e  Segurança  do  Trabalho.  Assim,  as  conclusões  foram  precedidas  de 
+
+trabalho de  engenharia  que avaliou,  com  rigor  técnico, as  atividades  realizadas,  os 
+
+riscos  ocupacionais  decorrentes  e  a  eficácia  das  medidas  de  controle 
+
+Página | 29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+comprovadamente 
+
+implementadas.  Os  enquadramentos 
+
+foram  baseados  nas 
+
+Normas  Regulamentadoras  aprovadas  pela  Portaria  n.º  3.214/78  e  na  legislação 
+
+complementar  aplicável  às  questões  de  insalubridade.  Deve-se  ressaltar  que  as 
+
+informações  e  declarações  prestadas  durante  a  diligência  são  de 
+
+total 
+
+responsabilidade  de  seus  autores.  Por  fim,  informa  que  o  laudo  foi  elaborado 
+
+especificamente para o processo em questão, sendo vedado o aproveitamento (total 
+
+ou  parcial)  em  outros  trabalhos  sem  autorização  expressa  deste  profissional  ou  do 
+
+Juízo.  
+
+Em face dos dados apurados e avaliados, o perito fica à disposição de V. Exa. 
+
+para os devidos fins prestar quaisquer esclarecimentos. 
+
+Vitória, 05 de julho de 2019. 
+
+ARISTÓTELES ASPIN MANSÔR PASSOS 
+PERITO OFICIAL 
+ENGENHEIRO DE MATERIAIS E SEGURANÇA DO TRABALHO  
+CREA-MG 185672/D CREA-ES VISTO 20160453 
+RNP 1413812171 
+
+Página | 30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13. ANEXO – DOCUMENTAÇÃO FOTOGRÁFICA 
+
+Foto 01 – Vista de frente de serviço da 1ª 
+Reclamada. 
+
+Foto 04 – Vista de pintor durante a execução 
+de suas atividades.  
+
+Foto 02 – Vista de frente de serviço da 1ª 
+Reclamada. 
+
+ Foto 05 – Vista de pintor durante a execução 
+de suas atividades.  
+
+Foto 03 – Vista de pintor durante a execução 
+de suas atividades.  
+
+Foto 06 – Vista de resíduos de tinta. 
+
+Página | 31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Foto 07 – Vista de latas das tintas 
+empregadas. 
+
+Foto 10 – Vista de encarregado mantendo o 
+contato com o pintor. 
+
+Foto 08 – Vista de frente de serviço da 1ª 
+Reclamada. 
+
+Foto 11 – Vista do pintor durante a execução 
+de suas atividades.  
+
+Foto 09 – Vista de frente de serviço da 1ª 
+Reclamada. 
+
+Foto 12 – Vista do pintor durante a execução 
+de suas atividades. 
+
+Página | 32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Foto 13 – Vista de resíduos de tinta. 
+
+Foto 15 – Vista de latas das tintas 
+empregadas. 
+
+Foto 14 – Vista da pistola empregada na 
+atividade. 
+
+Foto 16 – Vista do dosímetro de ruído e o nível 
+médio obtido na quantificação.  
+
+Página | 33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,13 @@
+
+    Relatório de Processamento
+    --------------------------
+    Tempo total: 20.17s
+
+    PDFs processados com sucesso: 246
+    PDFs com erro: 0
+    HTMLs processados com sucesso: 34
+    HTMLs com erro: 0
+
+    Tempo médio por PDF: 1.27s
+    Tempo médio por HTML: 0.14s
+    
