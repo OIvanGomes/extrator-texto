@@ -7,7 +7,7 @@ Projeto em Python para extrair texto de arquivos PDF e HTML, com geração de re
 ```
 /documentos/
 ├── documentos/    → coloque os arquivos PDF e HTML aqui
-├── processador.py → script principal
+├── script.py → script principal
 ├── texts/         → textos extraídos
 ├── relatorio/     → relatório final
 ```
